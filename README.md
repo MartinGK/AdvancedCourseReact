@@ -1,5 +1,5 @@
 # AdvancedCourseReact
-It's the of a course that i made.
+It's the code of a course that i made.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
